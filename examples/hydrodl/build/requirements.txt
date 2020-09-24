@@ -1,0 +1,14 @@
+PyYAML==5.3
+torch==1.6.0
+torchvision==0.7.0
+requests[security]
+xarray
+numpy
+pandas
+tqdm
+h5py
+jupyter
+scipy
+pyshp
+numba
+
